@@ -2,4 +2,4 @@ name = "FlyMyAi"
 env = ["FMA_API_KEY"]
 npm = "@ai-sdk/openai-compatible"
 api = "https://api.flymy.ai/inference/v1/"
-doc = "https://flymy.ai/docs/"
+doc = "https://docs.flymy.ai/intro"
